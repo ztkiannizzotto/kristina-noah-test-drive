@@ -1,0 +1,1 @@
+Upload index.html and the images folder together to GitHub Pages. Review all flight details before publishing. Keep private vouchers off the public site.

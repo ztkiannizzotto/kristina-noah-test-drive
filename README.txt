@@ -1,1 +1,1 @@
-Upload index.html and the images folder together to GitHub Pages. Review all flight details before publishing. Keep private vouchers off the public site.
+Upload the contents of this ZIP (not the ZIP itself) to the root of your GitHub repository. Replace index.html and image files. All image paths are relative to the repository root.
